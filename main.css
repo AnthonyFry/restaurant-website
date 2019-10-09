@@ -1,0 +1,128 @@
+* {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-image: url("white-txt-bg.jpg");
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Leckerli One', cursive;
+	color: #172A3A;
+	font-size: 90px;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Knewave', cursive;
+	font-size: 72px;
+	color: #A63C06;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Carter One', cursive;
+	font-size: 70px;
+}
+
+div.top-wrap {
+	margin: 50px auto 0 auto;
+	padding-top: 7%
+}
+
+div.regular-text {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 30px;
+}
+
+div.clear {
+	clear: both;
+}
+
+nav {
+	background-color: #172A3A;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+nav ul {
+  	margin: 0;
+  	padding: 0;
+}
+
+nav li {
+	font-family: 'Varela Round', sans-serif;
+	list-style-type: none;
+	display: inline-block;
+	padding: 15px;
+	transition: background-color .5s ease;
+}
+
+nav li:hover {
+	background-color: #D38B5D;
+}
+
+nav a {
+  	text-decoration: none;
+  	color: white;
+}
+
+img.logo {
+	margin: 40px auto 0 auto;
+	width: 320px;
+}
+
+div.title-wrap {
+	padding-bottom: 7%;
+}
+
+div.about-wrap {
+	background-color: #1E3359;
+	font-family: 'Rubik', sans-serif;
+	font-size: 32px;
+	text-align: center;
+	color: white;
+	padding: 5%;
+}
+
+img.contact-logo {
+	width: 6%;
+}
+
+div.contact-wrap {
+	padding-bottom: 7%;
+}
+
+div.contact-mid-wrap {
+	background-color: #2E2E3A;
+	color: white;
+	padding-bottom: 8%;
+}
+
+div.contact-btm-wrap {
+	padding-bottom: 9%;
+}
+
+div.menu-section-wrap {
+	padding: 2%;
+}
+
+img.menu {
+	width: 550px;
+	padding-bottom: 5%;
+}
+
+div.menu-subtext {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 25px;
+	color: #840032;
+	padding: 0.5%;
+}
+
+
+
+
